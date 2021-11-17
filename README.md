@@ -1,8 +1,9 @@
 # fuzzing-101-solutions
 
-fuzzing101 笔记
+fuzzing101-solutions 笔记
 
-本项目是epi052的[fuzzing-101-solutions](https://github.com/epi052/fuzzing-101-solutions)项目和博客内容的笔记，epi052使用了Rust来完成[fuzzing101](https://github.com/antonio-morales/Fuzzing101)的练习。这是由Antonio Morales创建的Fuzzing的Tutorial，使用C++,目前已有7个练习。
+本项目是根据epi052的[fuzzing-101-solutions](https://github.com/epi052/fuzzing-101-solutions)博客和项目内容的学习笔记。epi052使用了Rust来完成[fuzzing101](https://github.com/antonio-morales/Fuzzing101)的练习，而Fuzzing101由Antonio Morales创建的Fuzzing Tutorial，使用C++，目前已有7个练习。
+
 
 
 ## 目录
